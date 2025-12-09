@@ -1,0 +1,21 @@
+Power BI = called as EDA (Exploratory data analysis) tool developed by 
+Microsoft in the year 2015.
+
+100% Expert in Power BI 
+------------------------
+- Power BI Visualizations (60%)
+- Power BI Power Query (30%)
+- Power BI Model Views (5%)
+- Power BI DAX (Data analysis expressions)(5%)
+
+==========================================================================
+Report view = Visualizations 
+Tableau view = Data Storage 
+Model View = Data Integration 
+==========================================================================
+Today's Agenda from data 
+========================
+- Find the data Belongs to which Country ?
+- Find Which States are involved in the data ?
+- Each State comes under which Region ?
+

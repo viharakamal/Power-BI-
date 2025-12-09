@@ -1,0 +1,22 @@
+
+
+1. Represent Each State with Unique color 
+2. Represent the State Based on Sale Value 
+3. What is Legend Function is EDA 
+   If you already have a EDA on top of that EDA if we want to add new color (info)(this type of)
+   Implementation is called as **legend** function 
+
+
+4. What is the Difference Between Normal Map and FIlled Map 
+5. What is Number card 
+6. Formulas in Number card 
+================================================================
+colors in power BI 
+===================
+1. If you want any color -> we can collect from color space 
+2. There are different color spaces
+                    a) RBG color space **
+                    b) Cyan color space 
+                    c) BGR color space 
+                    d) HSV (Hue Saturation Value) color space 
+
